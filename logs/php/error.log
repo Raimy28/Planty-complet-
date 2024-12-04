@@ -1,0 +1,67 @@
+[07-Nov-2024 08:47:26 UTC] PHP Warning:  Undefined variable $qsid in C:\Users\remyg\Local Sites\planty\app\public\wp-content\plugins\child-theme-configurator\includes\classes\CSS.php on line 958
+[07-Nov-2024 08:47:26 UTC] PHP Warning:  Undefined variable $qsid in C:\Users\remyg\Local Sites\planty\app\public\wp-content\plugins\child-theme-configurator\includes\classes\CSS.php on line 960
+[07-Nov-2024 08:47:26 UTC] PHP Warning:  Undefined variable $qsid in C:\Users\remyg\Local Sites\planty\app\public\wp-content\plugins\child-theme-configurator\includes\classes\CSS.php on line 967
+[07-Nov-2024 08:47:26 UTC] PHP Warning:  Undefined variable $qsid in C:\Users\remyg\Local Sites\planty\app\public\wp-content\plugins\child-theme-configurator\includes\classes\CSS.php on line 968
+[07-Nov-2024 08:47:26 UTC] PHP Warning:  Undefined variable $qsid in C:\Users\remyg\Local Sites\planty\app\public\wp-content\plugins\child-theme-configurator\includes\classes\CSS.php on line 971
+[07-Nov-2024 09:21:00 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\remyg\Local Sites\planty\app\public\wp-includes\class-wp-customize-widgets.php on line 905
+[07-Nov-2024 09:21:00 UTC] PHP Warning:  Undefined variable $qsid in C:\Users\remyg\Local Sites\planty\app\public\wp-content\plugins\child-theme-configurator\includes\classes\CSS.php on line 958
+[07-Nov-2024 09:21:00 UTC] PHP Warning:  Undefined variable $qsid in C:\Users\remyg\Local Sites\planty\app\public\wp-content\plugins\child-theme-configurator\includes\classes\CSS.php on line 960
+[07-Nov-2024 09:21:00 UTC] PHP Warning:  Undefined variable $qsid in C:\Users\remyg\Local Sites\planty\app\public\wp-content\plugins\child-theme-configurator\includes\classes\CSS.php on line 967
+[07-Nov-2024 09:21:00 UTC] PHP Warning:  Undefined variable $qsid in C:\Users\remyg\Local Sites\planty\app\public\wp-content\plugins\child-theme-configurator\includes\classes\CSS.php on line 968
+[07-Nov-2024 09:21:00 UTC] PHP Warning:  Undefined variable $qsid in C:\Users\remyg\Local Sites\planty\app\public\wp-content\plugins\child-theme-configurator\includes\classes\CSS.php on line 971
+[07-Nov-2024 13:45:38 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\remyg\Local Sites\planty\app\public\wp-includes\class-wp-customize-widgets.php on line 905
+[07-Nov-2024 13:45:38 UTC] PHP Warning:  Undefined variable $qsid in C:\Users\remyg\Local Sites\planty\app\public\wp-content\plugins\child-theme-configurator\includes\classes\CSS.php on line 958
+[07-Nov-2024 13:45:38 UTC] PHP Warning:  Undefined variable $qsid in C:\Users\remyg\Local Sites\planty\app\public\wp-content\plugins\child-theme-configurator\includes\classes\CSS.php on line 960
+[07-Nov-2024 13:45:38 UTC] PHP Warning:  Undefined variable $qsid in C:\Users\remyg\Local Sites\planty\app\public\wp-content\plugins\child-theme-configurator\includes\classes\CSS.php on line 967
+[07-Nov-2024 13:45:38 UTC] PHP Warning:  Undefined variable $qsid in C:\Users\remyg\Local Sites\planty\app\public\wp-content\plugins\child-theme-configurator\includes\classes\CSS.php on line 968
+[07-Nov-2024 13:45:38 UTC] PHP Warning:  Undefined variable $qsid in C:\Users\remyg\Local Sites\planty\app\public\wp-content\plugins\child-theme-configurator\includes\classes\CSS.php on line 971
+[07-Nov-2024 13:55:11 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\remyg\Local Sites\planty\app\public\wp-includes\class-wp-customize-widgets.php on line 905
+[12-Nov-2024 08:37:14 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\remyg\Local Sites\planty\app\public\wp-includes\class-wp-customize-widgets.php on line 905
+[14-Nov-2024 11:04:32 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Core\Components\Migrations->run_migration(): The migration `fix_optimized_size_keys` successfully executed.
+[14-Nov-2024 11:04:32 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Core\Components\Migrations->run_migration(): The migration `fix_mime_type` successfully executed.
+[14-Nov-2024 11:04:32 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Core\Components\Migrations->run_migration(): The migration `fix_avif_with_zero_dimensions` successfully executed.
+[14-Nov-2024 11:04:40 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[14-Nov-2024 11:25:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[14-Nov-2024 11:27:14 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[14-Nov-2024 11:27:19 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[14-Nov-2024 11:27:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[14-Nov-2024 11:37:51 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[14-Nov-2024 11:42:31 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[14-Nov-2024 11:44:36 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[14-Nov-2024 11:46:16 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[14-Nov-2024 11:50:16 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\remyg\Local Sites\planty\app\public\wp-includes\class-wp-customize-widgets.php on line 923
+[14-Nov-2024 11:51:02 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[14-Nov-2024 11:52:53 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[14-Nov-2024 13:53:29 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[14-Nov-2024 13:53:49 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[14-Nov-2024 13:57:59 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[14-Nov-2024 14:06:19 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[14-Nov-2024 14:06:39 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[18-Nov-2024 08:42:21 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[18-Nov-2024 08:42:26 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[18-Nov-2024 08:45:35 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[18-Nov-2024 08:45:46 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[18-Nov-2024 08:46:26 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[18-Nov-2024 08:46:31 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[18-Nov-2024 09:16:26 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[28-Nov-2024 09:49:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Elementor\Core\get_plugins() in C:\Users\remyg\Local Sites\planty\app\public\wp-content\plugins\elementor\core\wp-api.php:26
+Stack trace:
+#0 C:\Users\remyg\Local Sites\planty\app\public\wp-content\plugins\elementor\modules\compatibility-tag\base-module.php(96): Elementor\Core\Wp_Api->get_plugins()
+#1 C:\Users\remyg\Local Sites\planty\app\public\wp-content\plugins\elementor\modules\compatibility-tag\base-module.php(58): Elementor\Modules\CompatibilityTag\Base_Module->get_plugins_with_header()
+#2 C:\Users\remyg\Local Sites\planty\app\public\wp-content\plugins\elementor\modules\compatibility-tag\module.php(57): Elementor\Modules\CompatibilityTag\Base_Module->get_plugins_to_check()
+#3 C:\Users\remyg\Local Sites\planty\app\public\wp-content\plugins\elementor\modules\compatibility-tag\base-module.php(148): Elementor\Modules\CompatibilityTag\Module->get_plugins_to_check()
+#4 C:\Users\remyg\Local Sites\planty\app\public\wp-includes\class-wp-hook.php(324): Elementor\Modules\CompatibilityTag\Base_Module->Elementor\Modules\CompatibilityTag\{closure}('')
+#5 C:\Users\remyg\Local Sites\planty\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#6 C:\Users\remyg\Local Sites\planty\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#7 C:\Users\remyg\Local Sites\planty\app\public\wp-content\plugins\elementor\modules\system-info\module.php(338): do_action('elementor/syste...')
+#8 C:\Users\remyg\Local Sites\planty\app\public\wp-content\plugins\elementor\includes\tracker.php(241): Elementor\Modules\System_Info\Module::get_allowed_reports()
+#9 C:\Users\remyg\Local Sites\planty\app\public\wp-content\plugins\elementor\includes\tracker.php(540): Elementor\Tracker::get_system_reports_data()
+#10 C:\Users\remyg\Local Sites\planty\app\public\wp-content\plugins\elementor\includes\tracker.php(141): Elementor\Tracker::get_tracking_data(false)
+#11 C:\Users\remyg\Local Sites\planty\app\public\wp-includes\class-wp-hook.php(324): Elementor\Tracker::send_tracking_data()
+#12 C:\Users\remyg\Local Sites\planty\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#13 C:\Users\remyg\Local Sites\planty\app\public\wp-includes\plugin.php(565): WP_Hook->do_action(Array)
+#14 C:\Users\remyg\Local Sites\planty\app\public\wp-cron.php(191): do_action_ref_array('elementor/track...', Array)
+#15 {main}
+  thrown in C:\Users\remyg\Local Sites\planty\app\public\wp-content\plugins\elementor\core\wp-api.php on line 26
+[28-Nov-2024 12:29:38 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[28-Nov-2024 12:32:08 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
